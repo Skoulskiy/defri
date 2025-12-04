@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/defri/static/css/main.4d580ae5.css",
+    "main.js": "/defri/static/js/main.65c4bf3e.js",
+    "static/media/background.mp4": "/defri/static/media/background.6dfa92c2ec4baa4f5577.mp4",
+    "static/media/logo.png": "/defri/static/media/logo.ea42251e9f3632c3814b.png",
+    "index.html": "/defri/index.html",
+    "static/media/arrow-right-circle.svg": "/defri/static/media/arrow-right-circle.c19eff114f1f90a7118712ae4cb293aa.svg",
+    "main.4d580ae5.css.map": "/defri/static/css/main.4d580ae5.css.map",
+    "main.65c4bf3e.js.map": "/defri/static/js/main.65c4bf3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d580ae5.css",
+    "static/js/main.65c4bf3e.js"
+  ]
+}
